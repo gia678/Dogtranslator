@@ -31,6 +31,7 @@ Dogtranslator is an interactive web application designed to simulate the process
 
 **Name:** CodeMasterDev  
 **Email:** gia678moren@outlook.com
+
 **Website:** [Dogtranslator](https://www.dogtranslator.net)
 
 > CodeMasterDev is a full-stack developer with over 10 years of experience in AI-powered applications. He’s a pet behavior researcher by passion and a mentor for beginner developers worldwide. Known for his clean code and collaborative nature, he’s always eager to help others build meaningful tools.
